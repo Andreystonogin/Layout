@@ -1,0 +1,116 @@
+.span{
+    display:flex;
+    flex-direction: column;
+    margin-bottom: 10px;
+    margin-right: 10px;
+}
+
+.block{
+
+    display: flex;
+    justify-content: space-between;
+}
+
+.block-btn {
+    display: flex;
+}
+
+.btn-block{
+    display: flex;
+justify-content: space-between;
+    
+}
+
+.form {
+    padding: 30px;
+}
+
+.title {
+    text-align: center;
+}
+
+.list-tr {
+    display: flex;
+    /* justify-content: space-between; */
+  
+}
+
+
+li {
+   list-style: none;
+   width: 100%;
+   border: 1px solid#6666
+}
+
+p { 
+    text-align: center;
+}
+
+.button-fio {
+    width: 25%;
+ 
+}
+
+
+.button-faculty {
+    width: 25%;
+ 
+}
+
+.button-age {
+    width: 25%;
+}
+
+
+.button-years {
+    width: 25%;
+}
+
+.btn-fio {
+    width: 25%;
+
+}
+
+.btn-btn {
+width: 97%;
+} 
+
+
+.search {
+    width: 100%;
+   padding: 30px 0;
+border:1px solid black;
+}
+
+.th1 {
+  text-align: center;
+    /* font-size: 21px; */
+  width: 108%;
+}
+
+
+
+.table {
+    margin-bottom: 0;
+}
+.th2 {
+    text-align: center;
+  width: 108%;
+}
+
+.th3 {
+    text-align: center;
+    width: 108%;;
+
+}
+
+.th4 {
+    text-align: center;
+    width: 82%;
+
+}
+/* .th5 {
+  
+    font-size: 21px;
+
+} */
